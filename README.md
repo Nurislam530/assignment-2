@@ -1,2 +1,6 @@
 # assignment-2
-![Снимок](https://user-images.githubusercontent.com/80254372/193311586-e46ffca4-e175-40a7-b5c0-02865d45252e.PNG)
+- Title
+- We have two files AITU_Nurislam_ERC20.sol and AITU_Nurislam_BEP20.sol in the contracts folder. In these files I tried to write a smart contract in ERC20 and BEP20 standard with some functionality, like mint, burn, transfer and delegated transfer.
+
+- Usage
+- 

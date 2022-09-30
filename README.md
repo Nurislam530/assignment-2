@@ -7,6 +7,7 @@ We have two files AITU_Nurislam_ERC20.sol and AITU_Nurislam_BEP20.sol in the con
 
 Here I will describe the usage of the second file because the syntax is the same in both standards.
 ![image](https://user-images.githubusercontent.com/80254372/193319125-1a973b45-3faf-4294-8c3c-ebadfc14f265.png)
+
 The first thing is our variables, the collection "balances" - stores the balance of addresses. 
 collection "allowance" - stores allowance from someone to someone.
 "totalSupply" - stores the total supply.

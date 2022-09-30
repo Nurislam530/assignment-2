@@ -42,7 +42,7 @@ approve(address spender, uint value) - to set the allowance for the address:
 
 Example:
 
-Here I use the transfer function to send a token pair to another address. To the argument "to" - I give the address of my erc20 contract. And to the "value" - 200.
+(1) Here I use the transfer function to send a token pair to another address. To the argument "to" - I give the address of my erc20 contract. And to the "value" - 200.
 
 ![С1нимок](https://user-images.githubusercontent.com/80254372/193324266-e9274151-d2bd-44d6-988f-f48d08271a27.PNG)
 
@@ -57,6 +57,12 @@ Then, I get a message in the console that the sending was successful.
 The balance of the address also shows that 200 tokens were sent successfully.
 
 ![image](https://user-images.githubusercontent.com/80254372/193325759-5b23d474-eead-4b67-bdcc-9238955f025b.png)
+
+
+
+
+
+
 
 
 

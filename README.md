@@ -39,4 +39,23 @@ approve(address spender, uint value) - to set the allowance for the address:
 
 ![image](https://user-images.githubusercontent.com/80254372/193322213-3cf25949-8b01-4140-8a2e-0ee8003651d3.png)
 
+![image](https://user-images.githubusercontent.com/80254372/193323884-6dfe8c13-ab6a-485d-89a2-ddc8ee1ebbf6.png)
+
+Example:
+
+Here I use the transfer function. To the argument "to" - I give the address of my erc20 contract. And to the "value" - 200.
+
+![С1нимок](https://user-images.githubusercontent.com/80254372/193324266-e9274151-d2bd-44d6-988f-f48d08271a27.PNG)
+
+Next, I confirm sending to the MetaMask:
+
+![image](https://user-images.githubusercontent.com/80254372/193324905-55c8cca6-f40f-4825-99be-b3212d68c613.png)
+
+Then, я получаю в консоли сообщение о том что отправка выполнена успешно. 
+
+![image](https://user-images.githubusercontent.com/80254372/193325158-769a1f85-5080-4c2a-ad5f-3774d7323976.png)
+
+
+
+
 
